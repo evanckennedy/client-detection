@@ -4,6 +4,13 @@ This is a simple web application designed to detect and display various client
 information such as system details, window dimensions, battery status, and 
 network connectivity.
 
+## Key Features
+
+- Real-time updates: Window size/orientation and battery information updates 
+dynamically if changes occur.
+- Cross-device compatibility: Designed to work on various desktops, laptops, a
+nd mobile devices.
+
 ## How to Use
 
 1. **System Information**: Upon loading the page, you'll see details about the 
